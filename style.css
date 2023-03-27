@@ -151,7 +151,7 @@ form{
     width: 100%;
 }
 
-.bulle_filtre {
+.bulle_filtre    {
     display: flex;
     flex-direction: row;
     align-items: center;
